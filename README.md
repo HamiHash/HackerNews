@@ -2,7 +2,7 @@
 
 ## About
 
-A simple app in wich you can see the hacker news latest articles.
+A simple app in which you can see the hacker news latest articles.
 
 ## 
 
